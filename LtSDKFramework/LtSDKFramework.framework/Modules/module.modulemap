@@ -1,0 +1,6 @@
+framework module LtSDKFramework {
+  umbrella header "LtSDKFramework.h"
+
+  export *
+  module * { export * }
+}
